@@ -85,19 +85,13 @@
 ---
 <!-- Begin Footer -->
 <div class="footer" align="center" style="margin:15px;">
-    </a>
-    <a href="https://www.linkedin.com/in/hashinisraq/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="linkedin" width="40px"/>
-    </a>
-    <a href="https://hashin-israq-portfolio.netlify.app" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" alt="netlify" width="40px"/>
-    <a href="https://www.facebook.com/hashinisraqhi/" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://i.ibb.co/qyqHksC/facebook-logo-trasparent.png" alt="facebook" width="40px"/>
+    <p align="center">
+<a href="https://linkedin.com/in/hashinisraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashinisraq" height="30" width="40" /></a>
+<a href="https://fb.com/hashinisraqhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashinisraqhi" height="30" width="40" /></a>
+<a href="https://instagram.com/hashinisraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashinisraq" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hashinisraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hashinisraq" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/hashinisraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hashinisraq" height="30" width="40" /></a>
+<a href="https://discord.gg/7792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7792" height="30" width="40" /></a>
+</p>
 </div>
 <!-- End Footer -->
-
-<!-- 
-🔗 Link 🔗
-- My Portfolio Page:
-[https://hashin-israq-portfolio.netlify.app]
--->
