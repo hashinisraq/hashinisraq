@@ -72,13 +72,9 @@
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 <!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashinisraq&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Hashin Israq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashinisraq&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hashinisraq&count_private=true&theme=algolia&border_radius=20)
 
