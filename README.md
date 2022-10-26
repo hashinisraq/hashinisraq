@@ -69,11 +69,11 @@
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
 
-![Hashin Israq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashinisraq&show=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashinisraq&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hashinisraq&count_private=true&theme=algolia&border_radius=20)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashinisraq&show=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashinisraq&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+<p><img align="center" src="https://streak-stats.demolab.com?user=hashinisraq&show=stars&count_private=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
 </div>
 <!--  End Stats Cards -->
 
