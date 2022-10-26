@@ -4,10 +4,6 @@
     I am a passionate, athletic full stack software developer and a student from Ahsanullah University of Science and Technology studying BSc in EEE. I love learning new programming languages and technologies.
 <br>
 <br>
-<div align="center">
-
-[Email Me](hashinisraq.hi@gmail.com)
-</div>
 </p>
 <br>
 
