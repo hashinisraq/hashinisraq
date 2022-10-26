@@ -2,9 +2,9 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic full stack software developer and a student from Ahsanullah University of Science and Technology studying BSc in EEE. I love learning new programming languages and technologies.
-<br>
+</br>
 </p>
-<br>
+</br>
 
 <!-- Languages and Tools -->
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
@@ -67,7 +67,7 @@
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   </a>
 </div>
-<br>
+</br>
 
 <!-- Statistics -->
 <h2 style="color: #44AEFB">📊 Statistics</h2>
@@ -77,13 +77,17 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashinisraq&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashinisraq&show=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashinisraq&show=stars&count=true&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=hashinisraq&show=stars&count_private=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=hashinisraq&show=stars&count=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
 </div>
+</br>
 <!--  End Stats Cards -->
 
 ---
+<!-- Contact -->
+<h2 style="color: #44AEFB">📲 Contact</h2>
+
 <!-- Begin Footer -->
 <div class="footer" align="center" style="margin:15px;">
     <p align="center">
