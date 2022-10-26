@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 HASHIN ISRAQ</h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic full stack software developer and a student from Ahsanullah University of Science and Technology studying BSc in EEE. I love learning new programming languages and technologies.
+    I am a passionate full stack software developer and a student from Ahsanullah University of Science and Technology studying BSc in EEE. I love learning new programming languages and technologies.
 </br>
 </p>
 </br>
