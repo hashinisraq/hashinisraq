@@ -67,11 +67,14 @@
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 <!-- Begin Stats Cards -->
+<div align="center">
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashinisraq&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashinisraq&show=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=hashinisraq&show=stars&count_private=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
+</div>
 <!--  End Stats Cards -->
 
 ---
