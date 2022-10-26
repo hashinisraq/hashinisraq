@@ -75,11 +75,10 @@
 <!-- Begin Stats Cards -->
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashinisraq&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashinisraq&show=stars&count=true&show_icons=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
-
 <p><img align="center" src="https://streak-stats.demolab.com?user=hashinisraq&show=stars&count=true&theme=algolia&border_radius=20" alt="hashinisraq" /></p>
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=hashinisraq&bg_color=050f2c&color=ffffff&line=000000&point=ffffff&area=true&border_radius=20" alt="hashinisraq" /></p>
+
 </div>
 </br>
 <!--  End Stats Cards -->
