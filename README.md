@@ -3,7 +3,6 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic full stack software developer and a student from Ahsanullah University of Science and Technology studying BSc in EEE. I love learning new programming languages and technologies.
 <br>
-<br>
 </p>
 <br>
 
@@ -70,7 +69,7 @@
 <!-- Begin Stats Cards -->
 <div class="stats" align="center">
 
-![Hashin Israq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashinisraq&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Hashin Israq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashinisraq&show=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hashinisraq&count_private=true&theme=algolia&border_radius=20)
 
