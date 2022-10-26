@@ -90,8 +90,9 @@
 
 <!-- Begin Footer -->
 <div class="footer" align="center" style="margin:15px;">
-    <p align="center">
+<p align="center">
 <a href="https://linkedin.com/in/hashinisraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashinisraq" height="30" width="40" /></a>
+<a href="https://hashin-israq-portfolio.netlify.app/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="hashinisraq" height="30" width="40" /></a>
 <a href="https://fb.com/hashinisraqhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashinisraqhi" height="30" width="40" /></a>
 <a href="https://instagram.com/hashinisraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashinisraq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hashinisraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hashinisraq" height="30" width="40" /></a>
