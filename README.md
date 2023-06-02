@@ -42,9 +42,9 @@
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
       <img  alt="C++" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
   </a>
-<!--   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a> -->
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
@@ -65,6 +65,9 @@
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  </a>
+    <a href="https://wordpress.com" target="_blank" rel="noreferrer">
+      <img  alt="Wordpress" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
   </a>
 </div>
 </br>
