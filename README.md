@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 HASHIN ISRAQ</h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Myself Hashin Israq, a recent graduate student of EEE at Ahsanullah University of Science and Technology. I have completed BSc in EEE. I love learning new technologies.
+    Myself Hashin Israq, a recent graduate student of EEE at Ahsanullah University of Science and Technology. I love learning new technologies.
 </br>
 </p>
 </br>
