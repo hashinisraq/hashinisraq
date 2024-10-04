@@ -107,7 +107,7 @@
 or Reach me at
 📧
 
-**https://cutt.ly/xeOFwOP3**
+**hashinisraq.hi@gmail.com**
 </p>
 </div>
 <!-- End Footer -->
