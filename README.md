@@ -105,7 +105,7 @@
 </br>
 <p>
 or Reach me at
-📧
+<a href="hashinisraq.hi@gmail.com" target="blank">📧</a>
 
 **hashinisraq.hi@gmail.com**
 </p>
