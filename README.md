@@ -48,6 +48,12 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+      <img  alt="Go" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
@@ -59,6 +65,9 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
