@@ -105,8 +105,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/hashinisraq-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashinisraq" height="30" width="40" /></a>
 <a href="https://hashinisraq.netlify.app" target="blank"><img align="center" src="https://www.svgrepo.com/show/130546/world-wide-web.svg" alt="hashinisraq-portfolio" height="30" width="40" /></a>
-<a href="https://fb.com/hashinisraqhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashinisraqhi" height="30" width="40" /></a>
-<a href="https://instagram.com/hashinisraq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashinisraq" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/hashinisraq#7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7792" height="30" width="40" /></a>
 </p>
 </br>
