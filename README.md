@@ -13,7 +13,7 @@
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
     <a href="https://www.synopsys.com" target="_blank" rel="noreferrer">
-      <img  alt="Cadence" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Synopsys_Logo.svg/1280px-Synopsys_Logo.svg.png"/>
+      <img  alt="Synopsys" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Synopsys_Logo.svg/1280px-Synopsys_Logo.svg.png"/>
   </a>
   <a href="https://www.cadence.com/" target="_blank" rel="noreferrer">
       <img  alt="Cadence" height="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtViCAhcaTtVpIgSU8_xHUAJY-_eXvAZEjhxeaM2cBVQ&s"/>
