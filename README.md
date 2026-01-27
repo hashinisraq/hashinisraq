@@ -90,7 +90,7 @@
 <!-- Begin Stats Cards -->
 <div align="center">
 
-<p><img src="https://streak-stats.demolab.com?user=hashinisraq&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></p>
+<p><img src="https://streak-stats.demolab.com/?user=hashinisraq" alt="GitHub Streak" /></p>
 
 </div>
 </br>
