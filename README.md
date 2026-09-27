@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://hashinisraq.com"><img src="https://img.shields.io/badge/Website-hashinisraq.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://linkedin.com/in/hashinisraq-in"><img src="https://img.shields.io/badge/LinkedIn-hashinisraq--in-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hashinisraq.hi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:contact@hashinisraq.com"><img src="https://img.shields.io/badge/Email-contact@hashinisraq.com-EA4335?style=flat-square" alt="Email"/></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID"><img src="https://img.shields.io/badge/Discord-hashinisraq-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
@@ -15,14 +16,17 @@
 ### About me
 
 - 🔬 Design Verification Engineer at **Ulkasemi**, working on **DDR5 / LPDDR5X PHY** qualification
-- 🧪 Day to day: SystemVerilog, UVM testbenches, gate-level simulation (GLS), Perl/Python/Bash automation
+- ⚙️ Currently working on **PHYINIT**: verifying PHY initialization and training sequences
+- 🧪 Previously worked on **gate-level simulation (GLS)**
+- 🛠️ Tools: SystemVerilog, UVM, Perl/Python/Bash automation
 - 🎓 Background in VLSI and semiconductor devices. Thesis on partially depleted **SOI MOSFETs** using TCAD (Silvaco, Sentaurus)
 
 ### 🎯 Focus areas
 
-- Functional verification of high-speed memory interfaces (DDR5 / LPDDR5X PHY)
-- UVM-based testbench architecture, coverage-driven verification, and regression automation
-- Gate-level simulation and sign-off
+- DDR5 / LPDDR5X PHY initialization (PHYINIT) and training sequence verification
+- Functional verification of high-speed memory interfaces
+- UVM-based testbenches, coverage-driven verification, and regression automation
+- Gate-level simulation (GLS)
 - Semiconductor device physics and TCAD modeling
 
 ### ⚙️ Tech stack
@@ -32,6 +36,7 @@
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E3A8A?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-7C3AED?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Verilog-0F766E?style=for-the-badge)
+![PHYINIT](https://img.shields.io/badge/PHYINIT-0369A1?style=for-the-badge)
 ![GLS](https://img.shields.io/badge/Gate--Level_Sim-334155?style=for-the-badge)
 ![Synopsys](https://img.shields.io/badge/Synopsys-5A2D82?style=for-the-badge)
 ![Cadence](https://img.shields.io/badge/Cadence-B91C1C?style=for-the-badge)
