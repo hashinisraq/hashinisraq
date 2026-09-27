@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hashin Israq 👋</h1>
 
 <p align="center">
-  <b>Design Verification Engineer</b> · VLSI · Founder of <a href="https://github.com/HYMUX">HYMUX</a>
+  <b>Design Verification Engineer</b> · VLSI · Semiconductor Devices
 </p>
 
 <p align="center">
@@ -17,19 +17,17 @@
 - 🔬 Design Verification Engineer at **Ulkasemi**, working on **DDR5 / LPDDR5X PHY** qualification
 - 🧪 Day to day: SystemVerilog, UVM testbenches, gate-level simulation (GLS), Perl/Python/Bash automation
 - 🎓 Background in VLSI and semiconductor devices. Thesis on partially depleted **SOI MOSFETs** using TCAD (Silvaco, Sentaurus)
-- 🚀 Outside work I build products under **HYMUX**, handling everything from design to deployment
 
-### 🚀 Currently building
+### 🎯 Focus areas
 
-| Project | What it is |
-|---|---|
-| **[SemiBD](https://github.com/HYMUX/semibd)** | Edtech platform for semiconductor/VLSI learning, built with Next.js and protected video delivery |
-| **[Accurify](https://accurify.net)** | Free visa status link directory, plus the paid Web Accurify SaaS suite |
-<!-- Add more HYMUX products here as they go public -->
+- Functional verification of high-speed memory interfaces (DDR5 / LPDDR5X PHY)
+- UVM-based testbench architecture, coverage-driven verification, and regression automation
+- Gate-level simulation and sign-off
+- Semiconductor device physics and TCAD modeling
 
 ### ⚙️ Tech stack
 
-**Verification & VLSI**
+**Verification & design**
 
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E3A8A?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-7C3AED?style=for-the-badge)
@@ -37,6 +35,9 @@
 ![GLS](https://img.shields.io/badge/Gate--Level_Sim-334155?style=for-the-badge)
 ![Synopsys](https://img.shields.io/badge/Synopsys-5A2D82?style=for-the-badge)
 ![Cadence](https://img.shields.io/badge/Cadence-B91C1C?style=for-the-badge)
+
+**Device simulation**
+
 ![Silvaco TCAD](https://img.shields.io/badge/Silvaco_TCAD-475569?style=for-the-badge)
 ![Sentaurus TCAD](https://img.shields.io/badge/Sentaurus_TCAD-475569?style=for-the-badge)
 
@@ -49,10 +50,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Web & product**
-
-[![Web stack](https://skillicons.dev/icons?i=nextjs,react,nodejs,js,html,css,tailwind,materialui,bootstrap,mongodb,mysql,firebase,netlify,vercel,figma,wordpress&perline=8)](https://skillicons.dev)
-
 ### 📊 GitHub activity
 
 <p align="center">
@@ -60,8 +57,7 @@
 </p>
 
 <!--
-If the streak card still shows lower numbers than your contribution graph:
+If the streak card shows lower numbers than your contribution graph:
 1) Settings → Public profile → turn ON "Include private contributions on my profile"
-2) If it's still wrong (the public instance caches/rate-limits), delete this section.
-   The contribution graph GitHub shows below the README already displays your real activity.
+2) If it's still wrong, delete this section. The native contribution graph already shows real activity.
 -->
