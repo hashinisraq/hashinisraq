@@ -1,121 +1,67 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 HASHIN ISRAQ</h1>
+<h1 align="center">Hi, I'm Hashin Israq 👋</h1>
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Myself Hashin Israq, I am passionate about learning new technologies.
-</br>
+<p align="center">
+  <b>Design Verification Engineer</b> · VLSI · Founder of <a href="https://github.com/HYMUX">HYMUX</a>
 </p>
-</br>
 
-<!-- Languages and Tools -->
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<div align="center">
-    <a href="https://www.synopsys.com" target="_blank" rel="noreferrer">
-      <img  alt="Synopsys" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Synopsys_Logo.svg/1280px-Synopsys_Logo.svg.png"/>
-  </a>
-  <a href="https://www.cadence.com/" target="_blank" rel="noreferrer">
-      <img  alt="Cadence" height="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtViCAhcaTtVpIgSU8_xHUAJY-_eXvAZEjhxeaM2cBVQ&s"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img  alt="TailwindCSS" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-      <img  alt="MaterialUI" height="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-      <img  alt="C++" height="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-      <img  alt="Go" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
-  </a>
-    <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
-      <img  alt="Verilog" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374163/verilog.svg"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
-  <a href="https://www.netlifycms.org/" target="_blank" rel="noreferrer">
-      <img  alt="netlify" height="50px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  </a>
-    <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-      <img  alt="Wordpress" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
-  </a>
-</div>
-</br>
-
-<!-- Statistics -->
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-<!-- Begin Stats Cards -->
-<div align="center">
-
-<p><img src="https://streak-stats.demolab.com/?user=hashinisraq" alt="GitHub Streak" /></p>
-
-</div>
-</br>
-<!--  End Stats Cards -->
+<p align="center">
+  <a href="https://hashinisraq.com"><img src="https://img.shields.io/badge/Website-hashinisraq.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://linkedin.com/in/hashinisraq-in"><img src="https://img.shields.io/badge/LinkedIn-hashinisraq--in-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hashinisraq.hi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
-<!-- Contact -->
-<h2 style="color: #44AEFB">📲 Contact</h2>
 
-<!-- Begin Footer -->
-<div class="footer" align="center" style="margin:15px;">
+### About me
+
+- 🔬 Design Verification Engineer at **Ulkasemi**, working on **DDR5 / LPDDR5X PHY** qualification
+- 🧪 Day to day: SystemVerilog, UVM testbenches, gate-level simulation (GLS), Perl/Python/Bash automation
+- 🎓 Background in VLSI and semiconductor devices. Thesis on partially depleted **SOI MOSFETs** using TCAD (Silvaco, Sentaurus)
+- 🚀 Outside work I build products under **HYMUX**, handling everything from design to deployment
+
+### 🚀 Currently building
+
+| Project | What it is |
+|---|---|
+| **[SemiBD](https://github.com/HYMUX/semibd)** | Edtech platform for semiconductor/VLSI learning, built with Next.js and protected video delivery |
+| **[Accurify](https://accurify.net)** | Free visa status link directory, plus the paid Web Accurify SaaS suite |
+<!-- Add more HYMUX products here as they go public -->
+
+### ⚙️ Tech stack
+
+**Verification & VLSI**
+
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E3A8A?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM-7C3AED?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-0F766E?style=for-the-badge)
+![GLS](https://img.shields.io/badge/Gate--Level_Sim-334155?style=for-the-badge)
+![Synopsys](https://img.shields.io/badge/Synopsys-5A2D82?style=for-the-badge)
+![Cadence](https://img.shields.io/badge/Cadence-B91C1C?style=for-the-badge)
+![Silvaco TCAD](https://img.shields.io/badge/Silvaco_TCAD-475569?style=for-the-badge)
+![Sentaurus TCAD](https://img.shields.io/badge/Sentaurus_TCAD-475569?style=for-the-badge)
+
+**Scripting & automation**
+
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Web & product**
+
+[![Web stack](https://skillicons.dev/icons?i=nextjs,react,nodejs,js,html,css,tailwind,materialui,bootstrap,mongodb,mysql,firebase,netlify,vercel,figma,wordpress&perline=8)](https://skillicons.dev)
+
+### 📊 GitHub activity
+
 <p align="center">
-<a href="https://linkedin.com/in/hashinisraq-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashinisraq" height="30" width="40" /></a>
-<a href="https://hashinisraq.vercel.app" target="blank"><img align="center" src="https://www.svgrepo.com/show/130546/world-wide-web.svg" alt="hashinisraq-portfolio" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/hashinisraq#7798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7792" height="30" width="40" /></a>
+  <img src="https://streak-stats.demolab.com/?user=hashinisraq&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
-</br>
-<!-- <p> -->
-<!-- or Reach me at
-📧
 
-**** -->
-</p>
-</div>
-<!-- End Footer -->
+<!--
+If the streak card still shows lower numbers than your contribution graph:
+1) Settings → Public profile → turn ON "Include private contributions on my profile"
+2) If it's still wrong (the public instance caches/rate-limits), delete this section.
+   The contribution graph GitHub shows below the README already displays your real activity.
+-->
